@@ -36,4 +36,7 @@ def power(num1, num2):
     return num1 ** num2
 
 def mod(num1, num2):
-    pass
+    """modulo operand
+    returns the remainder of the first parameter
+    divided by the second parameter"""
+    return num1 % num2
