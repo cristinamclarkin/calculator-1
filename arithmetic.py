@@ -18,7 +18,7 @@ def multiply(num1, num2):
 def divide(num1, num2):
     """ division
     divides first parameter by second parameter"""
-    return num1 / num2
+    return float(num1) / num2
 
 def square(num1):
     """ squaring
